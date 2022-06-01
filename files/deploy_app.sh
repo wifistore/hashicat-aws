@@ -11,7 +11,11 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
+<<<<<<< HEAD
   Welcome to ${PREFIX}'s app. The MOST CAT AND DOG FRIENDLY Photos.
+=======
+  Welcome BADASS to ${PREFIX}'s app. DOG AND CATS.
+>>>>>>> b12ea3f7a7ff6fb10ee05d79090b1a179aaa8b33
   <!-- END -->
 
   </div>
